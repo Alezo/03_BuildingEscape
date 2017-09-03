@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Gameframework/Actor.h"
+#include "GameFramework/Actor.h"
 #include "Components/ActorComponent.h"
 #include "PositionReport.generated.h"
 
