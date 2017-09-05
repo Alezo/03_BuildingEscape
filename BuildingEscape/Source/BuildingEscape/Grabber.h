@@ -48,4 +48,7 @@ private:
 
 	// Setup (assumed) attached input component
 	void SetupInputComponent();
+
+	// Return hit for first physics body in reach
+	FHitResult GetFirstPhysicsBodyInReach () const;
 };
